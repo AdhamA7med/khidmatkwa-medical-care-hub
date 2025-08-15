@@ -36,7 +36,7 @@ const Header = () => {
                 <path d="M12 2C13.1 2 14 2.9 14 4C14 5.1 13.1 6 12 6C10.9 6 10 5.1 10 4C10 2.9 10.9 2 12 2ZM21 9V7L15 1V3H9V1L3 7V9H21ZM21 11H3V15H21V11ZM21 17H3V21H21V17Z"/>
               </svg>
             </div>
-            <h1 className="text-2xl font-bold text-primary-800">خدماتكوا الطبية</h1>
+            <h1 className="text-2xl font-bold text-primary-800">جولدن كير</h1>
           </div>
 
           {/* Desktop Navigation */}

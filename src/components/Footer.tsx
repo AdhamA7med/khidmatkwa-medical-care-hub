@@ -16,21 +16,21 @@ const Footer = () => {
               <div className="w-12 h-12 bg-white/20 rounded-xl flex items-center justify-center">
                 <Heart className="w-8 h-8 text-white" />
               </div>
-              <h3 className="text-2xl font-bold">خدماتكوا الطبية</h3>
+              <h3 className="text-2xl font-bold">جولدن كير</h3>
             </div>
             <p className="text-blue-100 leading-relaxed mb-6 max-w-md">
-              نقدم أفضل خدمات التمريض المنزلي في محافظة الشرقية، مصر. 
+              نقدم أفضل خدمات التمريض المنزلي في محافظة القاهرة، مصر. 
               فريق طبي مؤهل ومتخصص لضمان أفضل رعاية صحية في منزلك.
             </p>
             <div className="flex gap-4">
               <a 
-                href="tel:01008481613"
+                href="tel:01032766086"
                 className="bg-white/20 backdrop-blur-md p-3 rounded-xl hover:bg-white/30 transition-colors duration-300"
               >
                 <Phone className="w-5 h-5" />
               </a>
               <a 
-                href="https://wa.me/201008481613"
+                href="https://wa.me/201032766086"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-green-500/20 backdrop-blur-md p-3 rounded-xl hover:bg-green-500/30 transition-colors duration-300"
@@ -77,19 +77,19 @@ const Footer = () => {
               </div>
               <div className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-blue-300" />
-                <a href="tel:01008481613" className="text-blue-100 hover:text-white transition-colors duration-200">
-                  01008481613
+                <a href="tel:01032766086" className="text-blue-100 hover:text-white transition-colors duration-200">
+                  01032766086
                 </a>
               </div>
               <div className="flex items-center gap-3">
                 <MessageCircle className="w-5 h-5 text-green-400" />
                 <a 
-                  href="https://wa.me/201008481613" 
+                  href="https://wa.me/201032766086" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-blue-100 hover:text-white transition-colors duration-200"
                 >
-                  واتساب: 01008481613
+                  واتساب: 01032766086
                 </a>
               </div>
             </div>

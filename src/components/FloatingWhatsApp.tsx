@@ -3,7 +3,7 @@ import { MessageCircle } from 'lucide-react';
 
 const FloatingWhatsApp = () => {
   const handleWhatsAppClick = () => {
-    window.open('https://wa.me/201008481613?text=مرحباً، أرغب في الاستفسار عن خدمات التمريض المنزلي', '_blank');
+    window.open('https://wa.me/201032766086?text=مرحباً، أرغب في الاستفسار عن خدمات التمريض المنزلي', '_blank');
   };
 
   return (

@@ -6,21 +6,21 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "العنوان",
-      details: "الشرقية، مصر",
+      details: "القاهرة، مصر",
       color: "text-red-600"
     },
     {
       icon: Phone,
       title: "رقم الهاتف",
-      details: "01008481613",
-      link: "tel:01008481613",
+      details: "01032766086",
+      link: "tel:01032766086",
       color: "text-blue-600"
     },
     {
       icon: MessageCircle,
       title: "واتساب",
-      details: "01008481613",
-      link: "https://wa.me/201008481613?text=مرحباً، أرغب في الاستفسار عن خدمات التمريض المنزلي",
+      details: "01032766086",
+      link: "https://wa.me/201032766086?text=مرحباً، أرغب في الاستفسار عن خدمات التمريض المنزلي",
       color: "text-green-600"
     },
     {
@@ -98,7 +98,7 @@ const Contact = () => {
                 </a>
                 
                 <a 
-                  href="https://wa.me/201008481613?text=مرحباً، أرغب في الاستفسار عن خدمات التمريض المنزلي"
+                  href="https://wa.me/201032766086?text=مرحباً، أرغب في الاستفسار عن خدمات التمريض المنزلي"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block bg-white/20 backdrop-blur-md rounded-xl p-4 hover:bg-white/30 transition-colors duration-300"

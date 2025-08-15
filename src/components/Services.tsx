@@ -104,11 +104,11 @@ const Services = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a 
-              href="tel:01008481613"
+              href="tel:01032766086"
               className="bg-white text-red-600 px-8 py-4 rounded-full text-lg font-semibold hover:bg-red-50 transition-colors duration-300 flex items-center gap-3"
             >
               <span className="w-3 h-3 bg-red-600 rounded-full animate-pulse"></span>
-              اتصال طوارئ: 01008481613
+              اتصال طوارئ: 01032766086
             </a>
           </div>
         </div>

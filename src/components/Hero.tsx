@@ -2,11 +2,11 @@ import { Phone, MessageCircle } from 'lucide-react';
 
 const Hero = () => {
   const handleCall = () => {
-    window.open('tel:01008481613', '_self');
+    window.open('tel:01032766086', '_self');
   };
 
   const handleWhatsApp = () => {
-    window.open('https://wa.me/201008481613?text=مرحباً، أرغب في الاستفسار عن خدمات التمريض المنزلي', '_blank');
+    window.open('https://wa.me/201032766086?text=مرحباً، أرغب في الاستفسار عن خدمات التمريض المنزلي', '_blank');
   };
 
   return (
@@ -29,7 +29,7 @@ const Hero = () => {
 
           {/* Main Heading */}
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-            خدماتكوا الطبية
+          جولدن كير 
           </h1>
           
           {/* Subheading */}
